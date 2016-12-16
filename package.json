@@ -1,7 +1,7 @@
 {
-  "name": "react-native-google-signin",
+  "name": "react-native-google-signin-benestudio",
   "version": "0.8.1",
-  "description": "Google Signin for your react native applications",
+  "description": "Fork of BeneStudio - Google Signin for your react native applications",
   "main": "index",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
