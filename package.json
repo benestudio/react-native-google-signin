@@ -1,6 +1,6 @@
 {
   "name": "react-native-google-signin-benestudio",
-  "version": "0.8.1",
+  "version": "0.8.2",
   "description": "Fork of BeneStudio - Google Signin for your react native applications",
   "main": "index",
   "scripts": {
